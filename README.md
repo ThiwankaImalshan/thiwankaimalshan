@@ -8,7 +8,7 @@ I'm a passionate Software Developer, Web Developer, and UI Designer with a knack
 - 🌱 I’m learning new web development technologies and improving my existing skills.
 - 👯 I’m looking to collaborate on open-source projects and innovative web applications.
 - 💬 Ask me about web development, UI/UX design, or anything tech-related!
-- 📫 How to reach me: [Your Email](mailto:thiwankaimalshan2001@gmail.com)
+- 📫 How to reach me: [Email](mailto:thiwankaimalshan2001@gmail.com)
 
 ## 🚀 Skills
 
