@@ -35,21 +35,22 @@ I'm a passionate Software Developer, Web Developer, and UI Designer with a knack
 
 ## 📈 GitHub Stats
 
-[![Thiwanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiwankaImalshan&show_icons=true&theme=dark)](https://github.com/ThiwankaImalshan)
+[![Thiwanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiwankaimalshan&show_icons=true&theme=dark)](https://github.com/thiwankaimalshan)
 
 ## 🏆 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiwankaImalshan&layout=compact&theme=dark)](https://github.com/ThiwankaImalshan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiwankaimalshan&layout=compact&theme=dark)](https://github.com/thiwankaimalshan)
+
 
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/thiwanka-imalshan)
-- [Twitter](https://twitter.com/ThiwankaImalshan)
-- [Portfolio](https://ThiwankaImalshan.com)
+- [Facebook](https://www.facebook.com/thiwanka.imalshan.3)
+- [Portfolio]([https://ThiwankaImalshan.com](https://thiwankaimalshan.github.io/my-portfolio/))
 
 ## 📄 Resume
 
-[View My Resume](https://thiwanka-imalshan.com)
+[View My Resume]([https://thiwanka-imalshan.com](https://thiwankaimalshan.github.io/my-portfolio/))
 
 ---
 
